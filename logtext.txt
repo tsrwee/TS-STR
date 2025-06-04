@@ -1,0 +1,23 @@
+0 number of valid files found on C:\TSVSCodeProj\TS-LabourForceSurvey\data\STR\
+0 number of valid files found on C:\TSVSCodeProj\TS-LabourForceSurvey\data\STR\
+0 number of valid files found on C:\TSVSCodeProj\TS-LabourForceSurvey\data\STR\
+0 number of valid files found on C:\TSVSCodeProj\TS-LabourForceSurvey\data\STR\
+3 number of valid files found on C:\TSVSCodeProj\TS-STR\data\
+6/2/2025 10:53:50 AM | Running ProcessEachSegmentByFile function
+6/2/2025 10:53:51 AM | C:\TSVSCodeProj\TS-STR\data\TourismSaskatchewan_20250427.xls
+6/2/2025 10:53:56 AM | C:\TSVSCodeProj\TS-STR\data\TourismSaskatchewan_20250504.xls
+6/2/2025 10:54:00 AM | C:\TSVSCodeProj\TS-STR\data\TourismSaskatchewan_20250511.xls
+0 number of valid files found on C:\TSVSCodeProj\TS-STR\data\
+0 number of valid files found on C:\TSVSCodeProj\TS-STR\data\
+0 number of valid files found on C:\TSVSCodeProj\TS-STR\data\
+0 number of valid files found on C:\TSVSCodeProj\TS-STR\data\
+1 number of valid files found on C:\TSVSCodeProj\TS-STR\data\
+6/2/2025 11:50:49 AM | Running ProcessEachSegmentByFile function
+6/2/2025 11:50:51 AM | C:\TSVSCodeProj\TS-STR\data\TourismSaskatchewan_20250511.xls
+1 number of valid files found on C:\TSVSCodeProj\TS-STR\data\Raw\
+6/4/2025 8:45:12 AM | Running ProcessEachSegmentByFile function
+6/4/2025 8:45:13 AM | C:\TSVSCodeProj\TS-STR\data\Raw\TourismSaskatchewan_20250518.xls
+2 number of valid files found on C:\TSVSCodeProj\TS-STR\data\Raw\
+6/4/2025 9:32:18 AM | Running ProcessEachSegmentByFile function
+6/4/2025 9:32:20 AM | C:\TSVSCodeProj\TS-STR\data\Raw\TourismSaskatchewan_20250518.xls
+6/4/2025 9:32:23 AM | C:\TSVSCodeProj\TS-STR\data\Raw\TourismSaskatchewan_20250525.xls
