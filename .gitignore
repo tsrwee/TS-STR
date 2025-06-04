@@ -126,4 +126,4 @@ Desktop.ini
 *.orig
 *.log
 
-*STR-ReadExcel.exe.config
+net-read-excel/STR-ReadExcel.exe.config

@@ -21,3 +21,4 @@
 6/4/2025 9:32:18 AM | Running ProcessEachSegmentByFile function
 6/4/2025 9:32:20 AM | C:\TSVSCodeProj\TS-STR\data\Raw\TourismSaskatchewan_20250518.xls
 6/4/2025 9:32:23 AM | C:\TSVSCodeProj\TS-STR\data\Raw\TourismSaskatchewan_20250525.xls
+0 number of valid files found on M:\TSPythonProj\TS-STR\data\Raw\
