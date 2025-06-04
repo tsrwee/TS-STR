@@ -125,5 +125,10 @@ Desktop.ini
 *.swo
 *.orig
 *.log
+*.bat
 
 net-read-excel/STR-ReadExcel.exe.config
+
+data/CSVied/*
+data/Processed/*
+data/Raw/*

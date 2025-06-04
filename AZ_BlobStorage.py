@@ -38,7 +38,9 @@ def get_data_from_azure_blob(local_folder,container_url, connection_string):
     """
     blob_service_client = BlobServiceClient.from_connection_string(connection_string)
     container_name = container_url.split('/')[-1]
-    container_client = blob_service_client.get_container_client(container_name)    
+    container_client = blob_service_client.get_container_client(container_name)
+
+    local_folder = os.path.join(local_folder, "Raw/")    
     
     os.makedirs(local_folder, exist_ok=True)  # Ensure the folder exists
 
